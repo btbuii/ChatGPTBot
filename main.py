@@ -7,7 +7,7 @@ from discord import app_commands
 openai.api_key = "KEY"
 
 """| INITIALIZATION |"""
-MY_GUILD = discord.Object(id = 381609335291379725)
+MY_GUILD = discord.Object(id = ID)
 global toggled 
 toggled = False
 
